@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProfileKotlin</string>
+    <string name="txtName">David</string>
+    <string name="txtBtnProfile">View Profile</string>
+    <string name="txtProfileInformation">Hi my name is David.\nI am 22 years old.\nI have 4 cats.\nI like playing video games.</string>
+</resources>
